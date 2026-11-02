@@ -23,17 +23,12 @@
 </p>
 <a href="https://github.com/Lucaspessoa22">
 <img src="https://github-stats-extended.vercel.app/api?username=lucaspessoa1705-glitch&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=lucaspessoa1705-glitch&include_all_commits=true&theme=shadow_blue)">
----
-  
-### 📱 Redes Sociais
 
-<div>
- <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
 ---
 
 📫 **Vamos nos conectar?**
-- **LinkedIn:** [Seu LinkedIn aqui](https://linkedin.com/in/seuperfil)
 - **E-mail:** [lucaspessoa1705@gmail.com](mailto:lucaspessoa1705@gmail.com)
+- ### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
