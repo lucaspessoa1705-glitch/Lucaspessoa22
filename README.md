@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+<a href="https://github.com/Lucaspessoa22">
+<img src="https://github-stats-extended.vercel.app/api?username=lucaspessoa1705-glitch&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=lucaspessoa1705-glitch&include_all_commits=true&theme=shadow_blue)">
 
 ---
 
