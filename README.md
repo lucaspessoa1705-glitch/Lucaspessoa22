@@ -1,5 +1,4 @@
-
-# Olá, eu sou o LucasPessoa22! 👋
+# Olá, eu sou o Lucas Pessoa! 👋
 
 ### 📌 Sobre mim
 - 💼 **Trabalho:** Scala, Assistente Administrativo
@@ -11,13 +10,17 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Tecnologias e Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucaspessoa22&show_icons=true&theme=tokyonight)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspessoa22&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucaspessoa22&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
